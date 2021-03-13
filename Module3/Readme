@@ -1,0 +1,4 @@
+- Spring Initializr: Spring Boot CLI
+- Automatic configuration (Auto-configuration)
+- Annotations: @SpringBootApplication
+- Profiles
