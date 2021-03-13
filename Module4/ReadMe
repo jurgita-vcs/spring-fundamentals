@@ -1,0 +1,4 @@
+- Data access: H2 data access using Spring Boot
+- Benefits of Spring with JPA (ORM)
+- Default configurations: Entities
+- Querying using repositories
